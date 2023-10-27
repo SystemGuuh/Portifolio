@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://SystemGuuh.github.io/Portifolio",
+  "homepage": "https://SystemGuuh.github.io/Portifolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'http://SystemGuuh.github.io/Portifolio'",
+    "build-gh": "parcel build --public-url 'https://SystemGuuh.github.io/Portifolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
