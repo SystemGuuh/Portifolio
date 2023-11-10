@@ -24,7 +24,7 @@ const imageAltText = "blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a SI student studying at University of São Paulo. I like to mix cybersecurity, artificial intelligence and hardware.";
+  "I'm a IS student at University of São Paulo. I like to mix cybersecurity, artificial intelligence and hardware.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
